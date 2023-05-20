@@ -1,0 +1,4 @@
+autoplay po selectie
+stop po selectie current song
+animacja dlugosci piosenki
+obiekt audio atrybuty
